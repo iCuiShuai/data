@@ -1,0 +1,311 @@
+[
+  {
+    "name": "com.android.cts.priv.ctsshim"
+  },
+  {
+    "name": "YouTube"
+  },
+  {
+    "name": "Android Services Library"
+  },
+  {
+    "name": "Phone and Messaging Storage"
+  },
+  {
+    "name": "Google"
+  },
+  {
+    "name": "Calendar Storage"
+  },
+  {
+    "name": "Media Storage"
+  },
+  {
+    "name": "Google One Time Init"
+  },
+  {
+    "name": "Android Shared Library"
+  },
+  {
+    "name": "MX Player Pro"
+  },
+  {
+    "name": "Home screen tips"
+  },
+  {
+    "name": "Files"
+  },
+  {
+    "name": "External Storage"
+  },
+  {
+    "name": "HTML Viewer"
+  },
+  {
+    "name": "Companion Device Manager"
+  },
+  {
+    "name": "MmsService"
+  },
+  {
+    "name": "Download Manager"
+  },
+  {
+    "name": "Messages"
+  },
+  {
+    "name": "ConfigUpdater"
+  },
+  {
+    "name": "Package Access Helper"
+  },
+  {
+    "name": "ARCore"
+  },
+  {
+    "name": "Downloads"
+  },
+  {
+    "name": "license checker"
+  },
+  {
+    "name": "PacProcessor"
+  },
+  {
+    "name": "Certificate Installer"
+  },
+  {
+    "name": "com.android.carrierconfig"
+  },
+  {
+    "name": "Android System"
+  },
+  {
+    "name": "Contacts"
+  },
+  {
+    "name": "Camera"
+  },
+  {
+    "name": "Google Indic Keyboard"
+  },
+  {
+    "name": "Android Easter Egg"
+  },
+  {
+    "name": "MTP Host"
+  },
+  {
+    "name": "com.android.backupconfirm"
+  },
+  {
+    "name": "Clock"
+  },
+  {
+    "name": "Intent Filter Verification Service"
+  },
+  {
+    "name": "Gmail"
+  },
+  {
+    "name": "Dark"
+  },
+  {
+    "name": "Android Setup"
+  },
+  {
+    "name": "Settings Storage"
+  },
+  {
+    "name": "com.android.sharedstoragebackup"
+  },
+  {
+    "name": "Google Play Music"
+  },
+  {
+    "name": "Print Spooler"
+  },
+  {
+    "name": "Basic Daydreams"
+  },
+  {
+    "name": "Input Devices"
+  },
+  {
+    "name": "Phone"
+  },
+  {
+    "name": "Default Print Service"
+  },
+  {
+    "name": "MX Player"
+  },
+  {
+    "name": "Drive"
+  },
+  {
+    "name": "Maps"
+  },
+  {
+    "name": "Cell Broadcasts"
+  },
+  {
+    "name": "Android System WebView"
+  },
+  {
+    "name": "Call Management"
+  },
+  {
+    "name": "Google Contacts Sync"
+  },
+  {
+    "name": "Key Chain"
+  },
+  {
+    "name": "Chrome"
+  },
+  {
+    "name": "Package installer"
+  },
+  {
+    "name": "Emulator Smoke Tests"
+  },
+  {
+    "name": "Google Play services"
+  },
+  {
+    "name": "Google Services Framework"
+  },
+  {
+    "name": "Google Text-to-speech Engine"
+  },
+  {
+    "name": "Live data wallpapers"
+  },
+  {
+    "name": "Call Log Backup/Restore"
+  },
+  {
+    "name": "Google Partner Setup"
+  },
+  {
+    "name": "Google Wallpaper Images"
+  },
+  {
+    "name": "Google Play Movies & TV"
+  },
+  {
+    "name": "Pixel Launcher"
+  },
+  {
+    "name": "ProxyHandler"
+  },
+  {
+    "name": "Live earth wallpapers"
+  },
+  {
+    "name": "WebView Shell"
+  },
+  {
+    "name": "Market Feedback Agent"
+  },
+  {
+    "name": "Print Service Recommendation Service"
+  },
+  {
+    "name": "Photos"
+  },
+  {
+    "name": "Calendar"
+  },
+  {
+    "name": "Work profile setup"
+  },
+  {
+    "name": "com.android.providers.partnerbookmarks"
+  },
+  {
+    "name": "Live Wallpaper Picker"
+  },
+  {
+    "name": "NetSpeed"
+  },
+  {
+    "name": "com.google.android.sdksetup"
+  },
+  {
+    "name": "Google Backup Transport"
+  },
+  {
+    "name": "Storage Manager"
+  },
+  {
+    "name": "OpenWnn"
+  },
+  {
+    "name": "Bookmark Provider"
+  },
+  {
+    "name": "Settings"
+  },
+  {
+    "name": "Google Pinyin Input"
+  },
+  {
+    "name": "Calculator"
+  },
+  {
+    "name": "com.android.cts.ctsshim"
+  },
+  {
+    "name": "VpnDialogs"
+  },
+  {
+    "name": "Wallpapers"
+  },
+  {
+    "name": "Phone Services"
+  },
+  {
+    "name": "AD Example"
+  },
+  {
+    "name": "Shell"
+  },
+  {
+    "name": "com.android.wallpaperbackup"
+  },
+  {
+    "name": "Blocked Numbers Storage"
+  },
+  {
+    "name": "User Dictionary"
+  },
+  {
+    "name": "Emergency information"
+  },
+  {
+    "name": "Jetpack"
+  },
+  {
+    "name": "Fused Location"
+  },
+  {
+    "name": "System UI"
+  },
+  {
+    "name": "Custom Locale"
+  },
+  {
+    "name": "Dev Tools"
+  },
+  {
+    "name": "Contacts Storage"
+  },
+  {
+    "name": "CaptivePortalLogin"
+  },
+  {
+    "name": "Gboard"
+  }
+]
